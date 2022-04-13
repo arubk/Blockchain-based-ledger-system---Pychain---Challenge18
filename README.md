@@ -25,7 +25,7 @@ To use the application, download the repository and run the application with the
 
        streamlit run pychain.py
      
-In case it shows this message:
+In case Command Promt shows this message:
      "If you're one of our development partners or you're interested in getting
   personal technical support or Streamlit updates, please enter your email
   address below. Otherwise, you may leave the field blank."
