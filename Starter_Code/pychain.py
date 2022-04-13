@@ -55,7 +55,6 @@ class Record:
     receiver: str
     amount: float
 
-
 ################################################################################
 # Step 2:
 # Modify the Existing Block Data Class to Store Record Data
@@ -65,7 +64,6 @@ class Record:
 # previous section. To do so, complete the following steps:
 # 1. In the `Block` class, rename the `data` attribute to `record`.
 # 2. Set the data type of the `record` attribute to `Record`.
-
 
 @dataclass
 class Block:
