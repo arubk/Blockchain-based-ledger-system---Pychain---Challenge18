@@ -1,6 +1,6 @@
 # Blockchain based ledger system - Pychain - Challenge18
 
-This repository contains the code to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger allows partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+This repository contains the code to build a blockchain-based ledger system, completed with a user-friendly web interface. This ledger allows partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
 ![18-4-application-image](https://user-images.githubusercontent.com/94565094/163091751-08ed09a4-f00f-4011-8a39-1be0a7875c49.png)
 
